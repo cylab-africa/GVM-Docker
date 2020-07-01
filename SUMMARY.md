@@ -20,4 +20,5 @@
   * [Postgresql](gvm-postgresql/postgresql.md)
 * [OpenVAS Scanner Docker Image](openvas-scanner-docker-image/README.md)
   * [Install Docker](openvas-scanner-docker-image/install-docker.md)
+* [GVM Stack Deployment Using Ansible](gvm-stack-deployment-using-ansible.md)
 
