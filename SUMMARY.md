@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Personnel](PERSONNEL.md)
+* [Personnel](personnel.md)
 * [Greenbone Vulnerability Stack Docker Image](greenbone-vulnerability-stack-docker-image/README.md)
   * [Install Docker](greenbone-vulnerability-stack-docker-image/install-docker.md)
   * [Runing the container](greenbone-vulnerability-stack-docker-image/runing-the-container.md)
@@ -20,3 +20,4 @@
   * [Postgresql](gvm-postgresql/postgresql.md)
 * [OpenVAS Scanner Docker Image](openvas-scanner-docker-image/README.md)
   * [Install Docker](openvas-scanner-docker-image/install-docker.md)
+
